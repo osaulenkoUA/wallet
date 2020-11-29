@@ -1,0 +1,7 @@
+@media screen and (min-width: 1280px) {
+  .wrapperHomePage {
+    width: 1192px;
+    margin: 0 auto;
+    position: relative;
+  }
+ }
